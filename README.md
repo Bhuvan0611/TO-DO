@@ -12,12 +12,6 @@ Easily add, delete, and manage your daily tasks with a clean interface.
 - 💾 Auto-saves tasks using Local Storage  
 
 ---
-
-## 🎮 Try It Out
-👉 [Click here to use it (if hosted on GitHub Pages)](https://yourusername.github.io/todo-list-app)
-
----
-
 ## ⚙️ How to Run
 1. Clone the repo  
    ```bash
